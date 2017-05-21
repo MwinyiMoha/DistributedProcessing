@@ -10,8 +10,11 @@ Computer Specifications
 
 This test was carried out on a HP Probook 4520s with the following specs:
 	*Intel Core i5 Processor at 2.5GHz (4 cores)
+	
 	*4 GB RAM
+	
 	*Windows 7 Ultimate, Service Pack 1
+	
 	*Python 2.7
 
 
